@@ -1,6 +1,6 @@
 # GRPG Framework v.1.1
 
-GRPG Framework (also known as Generic RPG) is a a text-based MMORPG base written in PHP that was created by Brandon Werner (Publius) in 2007. Please note that the code contiains short tags, SQL injection vulnerabilities and deprecated calls throughout.
+GRPG Framework (also known as Generic RPG) is a a text-based MMORPG base written in PHP that was created by Brandon Werner (Publius) in 2007. Please note that this code contains short tags, SQL injection vulnerabilities and deprecated calls throughout.
 
 Here are the installation instructions provided with the original readme:
 
